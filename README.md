@@ -5,7 +5,7 @@ Welcome to the **Pump.Fun Comment Bot** - the ultimate solution for shilling and
 
 This tool offers the best, fastest, and most efficient comment/reply bot for Pump.fun.  The bot is extremely complex on the backend but super simple for the user.
 
-**TELEGRAM** for contact & **POC** (Proof of Concept) & **VOUCHES**: [@testicklez](https://t.me/testicklez)
+
 
 Support in running the tool is included in the price.
 
@@ -21,9 +21,6 @@ Support in running the tool is included in the price.
 # Support & Vouches:
 Joing my discord:
 
-Server: https://discord.gg/YExjxwYS3J
-
-My discord: testicklez
 
 ## Features
 
