@@ -54,9 +54,11 @@ Joing my discord:
 
 ## Installation
 
+ Join Degen Tools Discord Server: https://app.hel.io/s/6723c158f92f450be2d01d43
+ 
 To get started with the Pump.Fun Launch Bundle Tool, follow these steps:
 
-1. DM me on TG - @humancybborg
+1.
    
 3. Navigate to the project directory:
     ```bash
